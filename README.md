@@ -1,7 +1,7 @@
 <h1>About</h1> 
 
-- 👋 Hi, I’m @krlrmlv
-- 👀 I’m interested in web/mobile/desktop develop, art, video-games, music, 
+- 👋 Hi, I’m Front-end Team Lead in my Team
+- 👀 I’m interested in web/mobile/desktop develop, art, video-games and music 
 - 🌱 I’m currently learning team management and actual front-end frameworks
 - 😄 Pronouns: hi, his, him
 <!---
