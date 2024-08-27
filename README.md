@@ -1,7 +1,7 @@
 <h1>About</h1> 
 
 - 👋 Hi, I’m Front-end developer
-- 💻 I'm currently the Team Lead Front-end in Aero and a guest lecturer in HSE ART AND DESIGN SCHOOL
+- 💻 I'm currently the Team Lead in Aero and a guest lecturer in HSE ART AND DESIGN SCHOOL
 - 👀 I’m interested in web/mobile/desktop development, 3D modeling, art, video-games and music 
 - 🌱 I’m currently learning mobile development and improving my English skill
 - 😄 Pronouns: hi, his, him
@@ -16,7 +16,7 @@
 --->
 
 Hellow everyone! 👋 <br>
-My name is Kirill, I've been doing Front-end development for over 5 years. <br>  
+My name is Kirill, I've been doing Front-end development since 2017. <br>  
 I have experience in working with all sorts of projects from many different price segments and areas <br>
 I am Team Lead of my team.
 
